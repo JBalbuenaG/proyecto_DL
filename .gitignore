@@ -1,3 +1,7 @@
+#.ini que se crean en google drive or file drive stream
+.ini
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
